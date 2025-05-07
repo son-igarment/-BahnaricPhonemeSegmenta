@@ -1,0 +1,14 @@
+# Data files
+*.csv
+*.zip
+
+# Pycache
+__pycache__/
+
+# Dataset
+*.parquet
+*.TextGrid
+*.wav
+
+# .vscode
+.vscode/
